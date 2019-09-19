@@ -19,7 +19,7 @@ public class MissionDemolition : MonoBehaviour {
     public Text uitShots;
     public Text uitButton;
     public Vector3 castlePos;
-    public GameObject[]  castles 
+    public GameObject[] castles; 
 
 
     [Header("Set Dynamically")]
